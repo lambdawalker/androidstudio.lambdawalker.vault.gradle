@@ -1,0 +1,12 @@
+.gradle/
+**/build/
+.idea/
+*.iml
+.superpowers/
+local.properties
+*.jks
+*.p12
+*.vault
+
+.intellijPlatform/
+.kotlin/
